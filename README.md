@@ -1,5 +1,5 @@
 # INS-Lite
-================
+********
 Personal Android APP - Instagram Lite
 
 ## Introduction
