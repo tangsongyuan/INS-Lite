@@ -1,0 +1,4 @@
+#Tue Apr 24 21:41:48 CDT 2018
+base.0=/Users/Songyuan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
